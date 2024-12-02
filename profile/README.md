@@ -6,4 +6,5 @@
 Jamii Dao aims to provide a open source tools for decentralized payments and networking infrastructure.
 
 #### Tools for Solana Infrastructure
-1. Solana Pay URL Rust parser - [SolanaPayments](https://github.com/JamiiDao/SolanaPayments)
+1. [SolanaPayments](https://github.com/JamiiDao/SolanaPayments) - Solana Pay URL Rust parser
+2. [Solana Rust Wallet Adapter](https://github.com/JamiiDao/SolanaWalletAdapter) - Build Solana Dapps in using Rust Frontend Frameworks
