@@ -1,5 +1,5 @@
 ## JAMII DAO
-<img src="https://raw.githubusercontent.com/JamiiDao/Brand-Collateral/master/JamiiDao-Logo-and-Icon.svg" width="40%" alt="JamiiDao-Logo.svg">
+<img src="https://raw.githubusercontent.com/JamiiDao/Brand-Collateral/master/JamiiDao-Logo-and-Icon.svg" width="20%" alt="JamiiDao-Logo.svg">
 
 ***Payments and Decentralized Infrastructure Tools***
 
